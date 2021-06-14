@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/project_covid_fairfax.html)
+[Project 3 Title](/projects/covid_counties_fairfax.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
