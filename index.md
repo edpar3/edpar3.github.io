@@ -4,11 +4,11 @@
 
 ### Python Data Science Projects 
 
-[Project 1 Title](/projects/handwritten_digits_classifier)
+[Handwritten Digits](/projects/handwritten_digits_classifier)
 <img src="images/handwritten_digits.png?raw=true"/>
 
 ---
-[Project 2 Title](/projects/covid_counties_fairfax.html)
+[Covid Plot Panel](/projects/covid_counties_fairfax.html)
 <img src="images/output_8_0.png?raw=true"/>
 
 ---
