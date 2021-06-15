@@ -9,7 +9,7 @@
 
 ---
 [Ames House Pricing](/projects/ames_house_pricing_project.html)
-<img src="images/ames_house_pricing.png?raw=true"/>
+<img src="images/ames_house_pricing_project.png?raw=true"/>
 
 ---
 [Covid Plot Panel](/projects/covid_counties_fairfax.html)
