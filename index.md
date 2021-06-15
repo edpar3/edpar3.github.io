@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/projects/handwritten_digits_classifier)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/handwritten_digits.png?raw=true"/>
 
 ---
 [Project 2 Title](/projects/covid_counties_fairfax.html)
