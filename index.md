@@ -8,7 +8,7 @@
 <img src="images/handwritten_digits.png?raw=true"/>
 
 ---
-[Covid Plot Panel](/projects/covid_counties_fairfax.html)
+[Ames House Pricing](/projects/covid_counties_fairfax.html)
 <img src="images/ames_house_pricing.png?raw=true"/>
 
 ---
