@@ -1,8 +1,8 @@
-## Portfolio - Under Construction
+## Portfolio (Under Construction)
 
 ---
 
-### Category Name 1 
+### Python Data Science Projects 
 
 [Project 1 Title](/projects/handwritten_digits_classifier)
 <img src="images/handwritten_digits.png?raw=true"/>
