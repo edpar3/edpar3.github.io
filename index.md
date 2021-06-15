@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/projects/covid_counties_fairfax_2)
+[Project 2 Title](/projects/covid_counties_fairfax.html)
 <img src="images/output_8_0.png?raw=true"/>
 
 ---
