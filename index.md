@@ -12,8 +12,8 @@
 <img src="images/ames_house_pricing_project.png?raw=true"/>
 
 ---
-[Ames House Pricing](/projects/ames_house_pricing_project.html)
-<img src="images/ames_house_pricing_project.png?raw=true"/>
+[Predicting Car Prices](/projects/predicting_car_prices.html)
+<img src="images/car_prices.png?raw=true"/>
 
 ---
 [Covid Plot Panel](/projects/covid_counties_fairfax.html)
