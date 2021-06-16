@@ -13,7 +13,7 @@
 
 ---
 [Predicting Car Prices](/projects/predicting_car_prices.html)
-<img src="images/car_prices.png?raw=true"/>
+<img src="images/car_prices_2.jpg?raw=true"/>
 
 ---
 [Covid Plot Panel](/projects/covid_counties_fairfax.html)
