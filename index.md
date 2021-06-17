@@ -17,7 +17,7 @@
 
 ---
 [Predicting Bike Rentals](/projects/predicting_bike_rentals.html)
-<img src="images/car_prices_2.jpg?raw=true"/>
+<img src="images/bike_rentals.jpg?raw=true"/>
 
 ---
 [Covid Plot Panel](/projects/covid_counties_fairfax.html)
