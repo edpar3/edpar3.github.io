@@ -12,6 +12,10 @@
 <img src="images/ames_house_pricing_project.png?raw=true"/>
 
 ---
+[Titanic Competition on Kaggle](/projects/kaggle_titanic.html)
+<img src="images/RMS_Titanic.jpg?raw=true"/>
+
+---
 [Predicting Car Prices](/projects/predicting_car_prices.html)
 <img src="images/car_prices_2.jpg?raw=true"/>
 
