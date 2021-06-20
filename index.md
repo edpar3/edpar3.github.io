@@ -13,7 +13,7 @@
 
 ---
 [Titanic Competition on Kaggle](/projects/kaggle_titanic.html)
-<img src="images/RMS_Titanic.jpg?raw=true"/>
+<img src="images/titanic.jpg?raw=true"/>
 
 ---
 [Predicting Car Prices](/projects/predicting_car_prices.html)
